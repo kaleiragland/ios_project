@@ -1,6 +1,7 @@
-# Robin
+## Slides
+[SwipeShare Slides (PDF)](SwipeShare.pdf)
 
-
+[SwipeShare Presentation](https://www.canva.com/design/DAHD3pOKvbI/IHjW9y1EYMKKThWDgkvRVg/view?utm_content=DAHD3pOKvbI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h58d121fe9b)
 
 ## Team Members
 - Adira Sklar (as7172)
